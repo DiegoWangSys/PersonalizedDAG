@@ -20,8 +20,8 @@ save file:
 > save_pth = YOUR PATH TO SAVE FILE
 
 parameters:
-> num_users = NUMER OF USERS IN THE SOCIAL NETWORK
-> num_nodes = NUMER OF NODES IN THE DAG 
+> num_users = NUMER OF USERS IN THE SOCIAL NETWORK<br>
+> num_nodes = NUMER OF NODES IN THE DAG<br>
 
 2. Run the command to estimate DAG over simulated data
 > python dag_learning_simu.py
@@ -36,9 +36,9 @@ save file:
 > save_pth = YOUR PATH TO SAVE FILE
 
 parameters:
-> num_users = NUMER OF USERS IN THE SOCIAL NETWORK
-> num_nodes = NUMER OF NODES IN THE DAG 
-> nonlinear = True
+> num_users = NUMER OF USERS IN THE SOCIAL NETWORK<br>
+> num_nodes = NUMER OF NODES IN THE DAG<br>
+> nonlinear = True<br>
 
 2. Copy the file 'UserNet.npy' and 'UserFeat.npy' to the folder 'gae'.
 
