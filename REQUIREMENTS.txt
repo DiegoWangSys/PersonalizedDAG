@@ -1,0 +1,19 @@
+PYTHON PACKAGES NEEDED FOR EXECUTING DAG LEARNING SIMULATIONS:
+
+numpy
+pandas
+matplotlib
+sklearn
+joblib
+multiprocessing
+-------------------------
+PYTHON PACKAGES NEEDED FOR EXECUTING DAG LEARNING APPLICATIONS:
+
+tensorflow
+numpy
+pandas
+scipy
+pickle
+sklearn
+joblib
+multiprocessing
